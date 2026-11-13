@@ -66,7 +66,8 @@ void student_ABHINAVI_H_R() {
 }
 
 void student_ADITHI_S_SHET() {
-    printf("ADITHI S SHET is absent\n");
+    printf("ADITHI S SHET is present\n");
+    printf("4JN25CS004");
 }
 
 void student_ADITHYA_S() {
